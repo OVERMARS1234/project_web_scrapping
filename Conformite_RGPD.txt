@@ -1,0 +1,22 @@
+Mesures pour la Conformité au RGPD
+Ce document détaille les mesures spécifiques mises en œuvre pour garantir que ce projet de scraping respecte les exigences du RGPD, en particulier en matière de protection des données personnelles.
+
+1. Objectif du Projet
+Le projet de scraping vise uniquement à collecter des données non personnelles disponibles publiquement sur le site d’annonces immobilières Avito.ma. L’objectif est d’obtenir des informations sur les biens immobiliers en vente, telles que la localisation approximative, le prix, les caractéristiques du bien, etc., pour des analyses de marché et des statistiques.
+
+2. Mesures de Conformité RGPD
+2.1 Vérification des Mentions Légales et Conditions d’Utilisation
+Analyse des Conditions d’Utilisation : Les politiques de confidentialité et les conditions générales d’utilisation d’Avito.ma ont été soigneusement étudiées pour vérifier que la collecte de données, à des fins d’analyse de marché, ne contrevient pas aux directives du site.
+Respect des Directives de Scraping : Conformément aux exigences du site, le projet s’engage à ne pas utiliser les informations recueillies pour des activités de démarchage ou de publicité ciblée.
+
+2.2 Exclusion des Données Personnelles
+Collecte Limitée aux Données Non Personnelles : Ce projet est conçu pour exclure toute collecte de données personnelles identifiables. Seules les informations générales et descriptives des biens immobiliers sont capturées, sans éléments permettant d’identifier directement ou indirectement les annonceurs.
+Principe de Minimisation des Données : Les données recueillies sont strictement limitées aux informations nécessaires à la réalisation de statistiques et d’analyses sur le marché immobilier, conformément au principe de minimisation des données.
+
+2.3 Méthodes de Sécurisation des Données
+Environnement de Stockage Sécurisé : Les données collectées sont stockées dans des fichiers CSV protégés par des accès restreints et des mesures de sécurité pour éviter tout accès non autorisé.
+Cryptage et Accès Restreint : Si des données doivent être partagées, elles sont cryptées et accessibles uniquement aux personnes autorisées travaillant sur le projet.
+Conservation et Suppression des Données : Conformément au principe de limitation de conservation des données, les informations sont conservées uniquement le temps nécessaire aux analyses prévues et sont supprimées lorsque leur usage n’est plus requis.
+
+3. Conclusion
+Ces mesures garantissent que le projet respecte les obligations de conformité du RGPD. La collecte, le stockage, et l’utilisation des données sont limités à des informations non personnelles et traitées dans le respect de la vie privée des individus concernés.
